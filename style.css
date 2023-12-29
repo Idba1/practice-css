@@ -26,7 +26,8 @@ h3{
 .baby-picture {
     width: 500px;
     height: 450px;
-    
+    border: 0em;
+    border-radius: 30px;
 }
 
 .display-inline {
